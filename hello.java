@@ -4,3 +4,5 @@ String jzUrl = supporter.getClassifyClientUrl(jz.getCorpId());
 hello
 woyelaigaile
 otheradd
+
+remote add
